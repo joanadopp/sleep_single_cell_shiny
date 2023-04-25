@@ -1,8 +1,8 @@
 # sleep_single_cell_shiny
 
-The shiny app is available here: https://joana-dopp.shinyapps.io/Fly_Sleep_Single_Cell/ <b>
+The shiny app is available here: https://joana-dopp.shinyapps.io/Fly_Sleep_Single_Cell/ <br>
 It allows users to explore expression of their gene of interest in their cell type of interest:
-<b>
+<br>
 
 (1) across different circadian Zeitgeber times,
 (2) between sleep and wake states and
